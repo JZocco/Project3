@@ -1,4 +1,5 @@
-# Project 3
+#Project 3
+
 My project 3 is about storying a mini market in the memory, along with a set that holds the most viewed
 players on the market. I used zIncrBy, and zRange in order to create these sets, and get them in the order
 I wanted them to be in.
